@@ -5,3 +5,4 @@ Implemented XGBoost-based failure classifier combined with LLM-powered root caus
 diagnosis reports for each detected incident.
 Engineered an automated fix recommendation engine mapping detected failure patterns to resolutions, reducing Mean Time to
 Resolution (MTTR) by 45%
+live link:https://loganalytics.study/
